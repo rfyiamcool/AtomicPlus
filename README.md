@@ -5,7 +5,7 @@
 
 ## install:
 ```
-pip install effi
+pip install cffi
 ```
 
 ## underlying implementation
